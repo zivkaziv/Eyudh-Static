@@ -6,7 +6,8 @@ const useStyles = makeStyles((theme) => ({
   mainDiv : {
     backgroundColor : "#09090A",
     width: '100vw',
-    minHeight: '100vh'
+    minHeight: '100vh',
+    minHeight : "1000px"
   },
   textHead : {
     color: "#E72727",
@@ -50,7 +51,7 @@ const useStyles = makeStyles((theme) => ({
     height: '100%',
     width: "100%",
     minHeight: '100vh',
-    padding: '50px 0px'
+    padding: '50px 0px',
   },
   regLink : {
     textDecoration: "none",

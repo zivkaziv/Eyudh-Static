@@ -15,6 +15,7 @@ const useStyles = makeStyles({
     mainDiv : {
         width :'100%',
         backgroundColor : '#0b0b0b',
+        minHeight : "800px"
     },
     navBar : {
         backgroundColor : '#0b0b0b',

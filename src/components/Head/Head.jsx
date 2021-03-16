@@ -15,7 +15,8 @@ const useStyles = makeStyles((theme) => ({
     backgroundRepeat: 'no-repeat',
     zIndex: '-10',
     filter : 'grayscale(100%)',
-    objectFit: 'cover'
+    objectFit: 'cover',
+    minHeight : "800px"
   },
   textHead : {
     color: "#E72727",

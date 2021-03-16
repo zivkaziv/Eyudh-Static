@@ -13,6 +13,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor : "#09090A",
     width: '100vw',
     minHeight: '100vh',
+    minHeight : "1000px"
   },
   textHead : {
     color: "#E72727",

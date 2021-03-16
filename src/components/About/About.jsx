@@ -9,7 +9,8 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor : "#09090A",
     width: '100vw',
     minHeight: '100vh',
-    padding: '30px'
+    padding: '30px',
+    minHeight : "1000px"
   },
   textHead : {
     color: "#E72727",
@@ -52,7 +53,8 @@ const useStyles = makeStyles((theme) => ({
     height: '100%',
     width: "100%",
     minHeight: '100vh',
-    padding: '200px 0px'
+    padding: '200px 0px',
+    minHeight : "1000px"
   },
   img: {
     width: '90%',

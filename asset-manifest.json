@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Eyudh-Static/static/css/main.236813fc.chunk.css",
-    "main.js": "/Eyudh-Static/static/js/main.541f167f.chunk.js",
-    "main.js.map": "/Eyudh-Static/static/js/main.541f167f.chunk.js.map",
+    "main.js": "/Eyudh-Static/static/js/main.5f584b36.chunk.js",
+    "main.js.map": "/Eyudh-Static/static/js/main.5f584b36.chunk.js.map",
     "runtime-main.js": "/Eyudh-Static/static/js/runtime-main.ed3c1443.js",
     "runtime-main.js.map": "/Eyudh-Static/static/js/runtime-main.ed3c1443.js.map",
-    "static/js/2.8d5c8c4d.chunk.js": "/Eyudh-Static/static/js/2.8d5c8c4d.chunk.js",
-    "static/js/2.8d5c8c4d.chunk.js.map": "/Eyudh-Static/static/js/2.8d5c8c4d.chunk.js.map",
+    "static/js/2.249c07a3.chunk.js": "/Eyudh-Static/static/js/2.249c07a3.chunk.js",
+    "static/js/2.249c07a3.chunk.js.map": "/Eyudh-Static/static/js/2.249c07a3.chunk.js.map",
     "index.html": "/Eyudh-Static/index.html",
     "static/css/main.236813fc.chunk.css.map": "/Eyudh-Static/static/css/main.236813fc.chunk.css.map",
-    "static/js/2.8d5c8c4d.chunk.js.LICENSE.txt": "/Eyudh-Static/static/js/2.8d5c8c4d.chunk.js.LICENSE.txt",
+    "static/js/2.249c07a3.chunk.js.LICENSE.txt": "/Eyudh-Static/static/js/2.249c07a3.chunk.js.LICENSE.txt",
     "static/media/arcade_bg.ad45dd36.jpg": "/Eyudh-Static/static/media/arcade_bg.ad45dd36.jpg",
     "static/media/cod_bg.b0ecf01d.jpeg": "/Eyudh-Static/static/media/cod_bg.b0ecf01d.jpeg",
     "static/media/csgo_bg.c36e847a.jpg": "/Eyudh-Static/static/media/csgo_bg.c36e847a.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ed3c1443.js",
-    "static/js/2.8d5c8c4d.chunk.js",
+    "static/js/2.249c07a3.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.541f167f.chunk.js"
+    "static/js/main.5f584b36.chunk.js"
   ]
 }

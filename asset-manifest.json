@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.236813fc.chunk.css",
-    "main.js": "/static/js/main.280544a1.chunk.js",
-    "main.js.map": "/static/js/main.280544a1.chunk.js.map",
+    "main.js": "/static/js/main.e058180d.chunk.js",
+    "main.js.map": "/static/js/main.e058180d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
     "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
-    "static/js/2.249c07a3.chunk.js": "/static/js/2.249c07a3.chunk.js",
-    "static/js/2.249c07a3.chunk.js.map": "/static/js/2.249c07a3.chunk.js.map",
+    "static/js/2.35aa238c.chunk.js": "/static/js/2.35aa238c.chunk.js",
+    "static/js/2.35aa238c.chunk.js.map": "/static/js/2.35aa238c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.236813fc.chunk.css.map": "/static/css/main.236813fc.chunk.css.map",
-    "static/js/2.249c07a3.chunk.js.LICENSE.txt": "/static/js/2.249c07a3.chunk.js.LICENSE.txt",
+    "static/js/2.35aa238c.chunk.js.LICENSE.txt": "/static/js/2.35aa238c.chunk.js.LICENSE.txt",
     "static/media/arcade_bg.ad45dd36.jpg": "/static/media/arcade_bg.ad45dd36.jpg",
     "static/media/cod_bg.b0ecf01d.jpeg": "/static/media/cod_bg.b0ecf01d.jpeg",
     "static/media/csgo_bg.c36e847a.jpg": "/static/media/csgo_bg.c36e847a.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.900dd88b.js",
-    "static/js/2.249c07a3.chunk.js",
+    "static/js/2.35aa238c.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.280544a1.chunk.js"
+    "static/js/main.e058180d.chunk.js"
   ]
 }

@@ -4,9 +4,9 @@ import {useSpring , animated, useTransition} from 'react-spring'
 import Grid from '@material-ui/core/Grid'
 
 import csgoBg from '../../Images/csgo_bg.jpg'
-import valorantBg from '../../Images/valorant_bg.jpg'
+import valorantBg from '../../Images/Valorant_bg.jpg'
 import freefireBg from '../../Images/freefire_bg.jpg'
-import codBg from '../../Images/cod_bg.jpeg'
+import codBg from '../../Images/cod_bg.jpg'
 
 const useStyles = makeStyles((theme) => ({
   mainDiv : {
@@ -75,6 +75,12 @@ const useStyles = makeStyles((theme) => ({
     width: '100%',
     height: '300px', 
     }
+  },
+  icon: {
+    height: '20px',
+    width: '20px',
+    alignSelf: 'center',
+    padding: '20px'
   }
 }));
 
@@ -142,6 +148,7 @@ const Games = (props) => {
                 })
               }
             </div>
+            <img className={classes.icon} src="https://img.icons8.com/metro/26/ffffff/forward.png"/>
           </Grid>
       </Grid>
     </>

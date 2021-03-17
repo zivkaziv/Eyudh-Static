@@ -55,7 +55,6 @@ const useStyles = makeStyles((theme) => ({
   },
   regLink : {
     textDecoration: "none",
-    cursor: 'pointer',
   },
   regBtn : {
     color: 'black',
@@ -98,9 +97,11 @@ const Contact = (props) => {
                 </div>
           </Grid>
           <Grid item xs={12} container justify='center'>
+          <div>
             <a href='mailto:eyudhgaming@gmail.com' className={classes.regLink}>
               <Button variant='contained' className={classes.regBtn}>SEND MAIL</Button>
             </a>
+            </div>
           </Grid>
           
       <footer className={classes.footer} ><span className={classes.footText}> &#169; All rights reserved 2021.</span> </footer>

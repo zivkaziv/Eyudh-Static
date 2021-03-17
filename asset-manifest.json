@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.236813fc.chunk.css",
-    "main.js": "/static/js/main.e058180d.chunk.js",
-    "main.js.map": "/static/js/main.e058180d.chunk.js.map",
+    "main.js": "/static/js/main.6f2944b9.chunk.js",
+    "main.js.map": "/static/js/main.6f2944b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
     "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
     "static/js/2.35aa238c.chunk.js": "/static/js/2.35aa238c.chunk.js",
@@ -10,20 +10,20 @@
     "index.html": "/index.html",
     "static/css/main.236813fc.chunk.css.map": "/static/css/main.236813fc.chunk.css.map",
     "static/js/2.35aa238c.chunk.js.LICENSE.txt": "/static/js/2.35aa238c.chunk.js.LICENSE.txt",
+    "static/media/Valorant_bg.104737df.jpg": "/static/media/Valorant_bg.104737df.jpg",
     "static/media/arcade_bg.ad45dd36.jpg": "/static/media/arcade_bg.ad45dd36.jpg",
-    "static/media/cod_bg.b0ecf01d.jpeg": "/static/media/cod_bg.b0ecf01d.jpeg",
-    "static/media/csgo_bg.c36e847a.jpg": "/static/media/csgo_bg.c36e847a.jpg",
+    "static/media/cod_bg.0e3feb36.jpg": "/static/media/cod_bg.0e3feb36.jpg",
+    "static/media/csgo_bg.c1c1d0ee.jpg": "/static/media/csgo_bg.c1c1d0ee.jpg",
     "static/media/eyudh_logo.c5310be8.png": "/static/media/eyudh_logo.c5310be8.png",
     "static/media/eyudh_name.8f51abe3.png": "/static/media/eyudh_name.8f51abe3.png",
     "static/media/freefire_bg.94371220.jpg": "/static/media/freefire_bg.94371220.jpg",
     "static/media/gameboyyyy.21475cb6.gif": "/static/media/gameboyyyy.21475cb6.gif",
-    "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg",
-    "static/media/valorant_bg.84d1bf02.jpg": "/static/media/valorant_bg.84d1bf02.jpg"
+    "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.900dd88b.js",
     "static/js/2.35aa238c.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.e058180d.chunk.js"
+    "static/js/main.6f2944b9.chunk.js"
   ]
 }

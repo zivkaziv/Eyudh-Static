@@ -117,7 +117,7 @@ const About = (props) => {
           </Grid>
           <Grid item xs={12} container justify='center'>
             <animated.div style={styles2}>    
-              <img className={classes.img} src={HomeBg} />
+              <img alt="arcade image" className={classes.img} src={HomeBg} />
             </animated.div>
           </Grid>
       </Grid>

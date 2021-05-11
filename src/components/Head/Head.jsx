@@ -110,7 +110,7 @@ const Home = (props) => {
           </Grid>
           <Grid item xs={12} md={4} container justify='center'>
             <animated.div style={styles2}>    
-              <img className={classes.img} src={HomePic} />
+              <img alt="Game boy gif" className={classes.img} src={HomePic} />
               </animated.div>
           </Grid>
       </Grid>

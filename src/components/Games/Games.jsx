@@ -100,10 +100,10 @@ const Games = (props) => {
   })
 
   const games = [
-    ({ style }) => (<animated.div style={{...style}} > <img style={{...style}} className={classes.gameBg} src={csgoBg} /> </animated.div>),
-    ({ style }) => (<animated.div style={{...style}} > <img style={{...style}} className={classes.gameBg} src={valorantBg} /> </animated.div>),
-    ({ style }) => (<animated.div style={{...style}} > <img style={{...style}} className={classes.gameBg} src={codBg} /> </animated.div>),
-    ({ style }) => (<animated.div style={{...style}} > <img style={{...style}} className={classes.gameBg} src={freefireBg} /> </animated.div>),
+    ({ style }) => (<animated.div style={{...style}} > <img alt="csgo image" style={{...style}} className={classes.gameBg} src={csgoBg} /> </animated.div>),
+    ({ style }) => (<animated.div style={{...style}} > <img alt="valorant image" tyle={{...style}} className={classes.gameBg} src={valorantBg} /> </animated.div>),
+    ({ style }) => (<animated.div style={{...style}} > <img alt="COD mobile image" style={{...style}} className={classes.gameBg} src={codBg} /> </animated.div>),
+    ({ style }) => (<animated.div style={{...style}} > <img alt="free fire image" style={{...style}} className={classes.gameBg} src={freefireBg} /> </animated.div>),
     
   ]
 
@@ -148,7 +148,7 @@ const Games = (props) => {
                 })
               }
             </div>
-            <img className={classes.icon} src="https://img.icons8.com/metro/26/ffffff/forward.png"/>
+            <img alt="forward icon" className={classes.icon} src="https://img.icons8.com/metro/26/ffffff/forward.png"/>
           </Grid>
       </Grid>
     </>

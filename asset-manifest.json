@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.236813fc.chunk.css",
-    "main.js": "/static/js/main.2ec4859f.chunk.js",
-    "main.js.map": "/static/js/main.2ec4859f.chunk.js.map",
+    "main.js": "/static/js/main.785a8476.chunk.js",
+    "main.js.map": "/static/js/main.785a8476.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2c1a1be9.js",
     "runtime-main.js.map": "/static/js/runtime-main.2c1a1be9.js.map",
     "static/js/2.494e8017.chunk.js": "/static/js/2.494e8017.chunk.js",
@@ -17,13 +17,13 @@
     "static/media/eyudh_logo.c5310be8.png": "/static/media/eyudh_logo.c5310be8.png",
     "static/media/eyudh_name.8f51abe3.png": "/static/media/eyudh_name.8f51abe3.png",
     "static/media/freefire_bg.94371220.jpg": "/static/media/freefire_bg.94371220.jpg",
-    "static/media/gameboyyyy.21475cb6.gif": "/static/media/gameboyyyy.21475cb6.gif",
+    "static/media/gameboyyyy.94aab662.gif": "/static/media/gameboyyyy.94aab662.gif",
     "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2c1a1be9.js",
     "static/js/2.494e8017.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.2ec4859f.chunk.js"
+    "static/js/main.785a8476.chunk.js"
   ]
 }

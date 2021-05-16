@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.236813fc.chunk.css",
-    "main.js": "/static/js/main.991df675.chunk.js",
-    "main.js.map": "/static/js/main.991df675.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2c1a1be9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2c1a1be9.js.map",
-    "static/js/2.788d915c.chunk.js": "/static/js/2.788d915c.chunk.js",
-    "static/js/2.788d915c.chunk.js.map": "/static/js/2.788d915c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.236813fc.chunk.css.map": "/static/css/main.236813fc.chunk.css.map",
-    "static/js/2.788d915c.chunk.js.LICENSE.txt": "/static/js/2.788d915c.chunk.js.LICENSE.txt",
-    "static/media/arcade_bg.ad45dd36.jpg": "/static/media/arcade_bg.ad45dd36.jpg",
-    "static/media/cod_bg.761b3bb1.jpg": "/static/media/cod_bg.761b3bb1.jpg",
-    "static/media/cslp.5e8dd1a2.png": "/static/media/cslp.5e8dd1a2.png",
-    "static/media/eyudh_logo.c5310be8.png": "/static/media/eyudh_logo.c5310be8.png",
-    "static/media/eyudh_name.8f51abe3.png": "/static/media/eyudh_name.8f51abe3.png",
-    "static/media/freefirecard.043568a8.png": "/static/media/freefirecard.043568a8.png",
-    "static/media/gameboyyyy.21475cb6.gif": "/static/media/gameboyyyy.21475cb6.gif",
-    "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg",
-    "static/media/pubglp.9b3b54fc.png": "/static/media/pubglp.9b3b54fc.png",
-    "static/media/valorantlp.3e11e273.png": "/static/media/valorantlp.3e11e273.png"
+    "main.css": "/Eyudh-Static/static/css/main.236813fc.chunk.css",
+    "main.js": "/Eyudh-Static/static/js/main.98009729.chunk.js",
+    "main.js.map": "/Eyudh-Static/static/js/main.98009729.chunk.js.map",
+    "runtime-main.js": "/Eyudh-Static/static/js/runtime-main.2586f2ff.js",
+    "runtime-main.js.map": "/Eyudh-Static/static/js/runtime-main.2586f2ff.js.map",
+    "static/js/2.788d915c.chunk.js": "/Eyudh-Static/static/js/2.788d915c.chunk.js",
+    "static/js/2.788d915c.chunk.js.map": "/Eyudh-Static/static/js/2.788d915c.chunk.js.map",
+    "index.html": "/Eyudh-Static/index.html",
+    "static/css/main.236813fc.chunk.css.map": "/Eyudh-Static/static/css/main.236813fc.chunk.css.map",
+    "static/js/2.788d915c.chunk.js.LICENSE.txt": "/Eyudh-Static/static/js/2.788d915c.chunk.js.LICENSE.txt",
+    "static/media/arcade_bg.ad45dd36.jpg": "/Eyudh-Static/static/media/arcade_bg.ad45dd36.jpg",
+    "static/media/cod_bg.761b3bb1.jpg": "/Eyudh-Static/static/media/cod_bg.761b3bb1.jpg",
+    "static/media/cslp.5e8dd1a2.png": "/Eyudh-Static/static/media/cslp.5e8dd1a2.png",
+    "static/media/eyudh_logo.c5310be8.png": "/Eyudh-Static/static/media/eyudh_logo.c5310be8.png",
+    "static/media/eyudh_name.8f51abe3.png": "/Eyudh-Static/static/media/eyudh_name.8f51abe3.png",
+    "static/media/freefirecard.043568a8.png": "/Eyudh-Static/static/media/freefirecard.043568a8.png",
+    "static/media/gameboyyyy.21475cb6.gif": "/Eyudh-Static/static/media/gameboyyyy.21475cb6.gif",
+    "static/media/home_bg.3d8da519.jpg": "/Eyudh-Static/static/media/home_bg.3d8da519.jpg",
+    "static/media/pubglp.9b3b54fc.png": "/Eyudh-Static/static/media/pubglp.9b3b54fc.png",
+    "static/media/valorantlp.3e11e273.png": "/Eyudh-Static/static/media/valorantlp.3e11e273.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c1a1be9.js",
+    "static/js/runtime-main.2586f2ff.js",
     "static/js/2.788d915c.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.991df675.chunk.js"
+    "static/js/main.98009729.chunk.js"
   ]
 }

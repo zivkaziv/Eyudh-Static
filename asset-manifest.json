@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.236813fc.chunk.css",
-    "main.js": "/static/js/main.785a8476.chunk.js",
-    "main.js.map": "/static/js/main.785a8476.chunk.js.map",
+    "main.js": "/static/js/main.991df675.chunk.js",
+    "main.js.map": "/static/js/main.991df675.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2c1a1be9.js",
     "runtime-main.js.map": "/static/js/runtime-main.2c1a1be9.js.map",
-    "static/js/2.494e8017.chunk.js": "/static/js/2.494e8017.chunk.js",
-    "static/js/2.494e8017.chunk.js.map": "/static/js/2.494e8017.chunk.js.map",
+    "static/js/2.788d915c.chunk.js": "/static/js/2.788d915c.chunk.js",
+    "static/js/2.788d915c.chunk.js.map": "/static/js/2.788d915c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.236813fc.chunk.css.map": "/static/css/main.236813fc.chunk.css.map",
-    "static/js/2.494e8017.chunk.js.LICENSE.txt": "/static/js/2.494e8017.chunk.js.LICENSE.txt",
-    "static/media/Valorant_bg.104737df.jpg": "/static/media/Valorant_bg.104737df.jpg",
+    "static/js/2.788d915c.chunk.js.LICENSE.txt": "/static/js/2.788d915c.chunk.js.LICENSE.txt",
     "static/media/arcade_bg.ad45dd36.jpg": "/static/media/arcade_bg.ad45dd36.jpg",
-    "static/media/cod_bg.0e3feb36.jpg": "/static/media/cod_bg.0e3feb36.jpg",
-    "static/media/csgo_bg.c1c1d0ee.jpg": "/static/media/csgo_bg.c1c1d0ee.jpg",
+    "static/media/cod_bg.761b3bb1.jpg": "/static/media/cod_bg.761b3bb1.jpg",
+    "static/media/cslp.5e8dd1a2.png": "/static/media/cslp.5e8dd1a2.png",
     "static/media/eyudh_logo.c5310be8.png": "/static/media/eyudh_logo.c5310be8.png",
     "static/media/eyudh_name.8f51abe3.png": "/static/media/eyudh_name.8f51abe3.png",
-    "static/media/freefire_bg.94371220.jpg": "/static/media/freefire_bg.94371220.jpg",
-    "static/media/gameboyyyy.94aab662.gif": "/static/media/gameboyyyy.94aab662.gif",
-    "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg"
+    "static/media/freefirecard.043568a8.png": "/static/media/freefirecard.043568a8.png",
+    "static/media/gameboyyyy.21475cb6.gif": "/static/media/gameboyyyy.21475cb6.gif",
+    "static/media/home_bg.3d8da519.jpg": "/static/media/home_bg.3d8da519.jpg",
+    "static/media/pubglp.9b3b54fc.png": "/static/media/pubglp.9b3b54fc.png",
+    "static/media/valorantlp.3e11e273.png": "/static/media/valorantlp.3e11e273.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2c1a1be9.js",
-    "static/js/2.494e8017.chunk.js",
+    "static/js/2.788d915c.chunk.js",
     "static/css/main.236813fc.chunk.css",
-    "static/js/main.785a8476.chunk.js"
+    "static/js/main.991df675.chunk.js"
   ]
 }
